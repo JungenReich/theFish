@@ -1,0 +1,15 @@
+{
+  "workspace": {
+    "checkThirdParty": false
+  },
+  "runtime": {
+    "version": "LuaJIT",
+    "path": [
+      "?.lua",
+      "?/init.lua"
+    ]
+  },
+  "diagnostics": {
+    "globals": ["love"]
+  }
+}
